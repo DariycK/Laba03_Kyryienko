@@ -1,0 +1,20 @@
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\bin\Debug\Laba03_Kyryienko.exe.config
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\bin\Debug\Laba03_Kyryienko.exe
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\bin\Debug\Laba03_Kyryienko.pdb
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.csproj.AssemblyReference.cache
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.Form1.resources
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.Properties.Resources.resources
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.csproj.GenerateResource.cache
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.csproj.CoreCompileInputs.cache
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.exe
+C:\Users\Дарий\source\repos\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.pdb
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\bin\Debug\Laba03_Kyryienko.exe.config
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\bin\Debug\Laba03_Kyryienko.exe
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\bin\Debug\Laba03_Kyryienko.pdb
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.csproj.AssemblyReference.cache
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.Form1.resources
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.Properties.Resources.resources
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.csproj.GenerateResource.cache
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.csproj.CoreCompileInputs.cache
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.exe
+C:\Users\Дарий\Desktop\учеба НАУ\прог\Laba03_Kyryienko\Laba03_Kyryienko\obj\Debug\Laba03_Kyryienko.pdb
